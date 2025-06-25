@@ -1,0 +1,118 @@
+technology,category,p,q,m,source,technology ready year,market year,time to 95% adoption
+hybrid corn,agricultural,0.00001,0.116,,"Pae Lehmann, 2003",,1900,106.0537031
+Dishwashers,appliances,0.00002,0.1266,,"Kohli, Lehmann and Pae, 1999",1889,1912,
+room air conditioners,appliances,0.00011,0.6396,,"Kohli, Lehmann and Pae, 1999",1949,1954,
+Microwave,appliances,0.0001,0.45,,"Pae Lehmann, 2003",,1983,25.23107209
+Clothes Dryers,appliances,0.00008,0.3476,,"Kohli, Lehmann and Pae, 1999",1932,1946,
+Refrigerator,appliances,0.00018,0.3048,,"Kohli, Lehmann and Pae, 1999",1905,1913,
+Waste Disposal,appliances,0.0002,0.3069,,"Pae Lehmann, 2003",,1964,33.47797003
+Freezer,appliances,0.00049,0.67,,"Kohli, Lehmann and Pae, 1999",1960,1971,
+Electric Range,appliances,0.0005,0.656,0.5,PNNL,,1984,15.42200904
+Clothes Washer,appliances,0.0003,0.389,,"Kohli, Lehmann and Pae, 1999",1911,1933,125.4326943
+Shaver,housewares,0.00021,0.2636,,"Kohli, Lehmann and Pae, 1999",1923,1931,
+soft drink can: alluminum,industrial,0.0004,0.404,,"Pae Lehmann, 2003",,1966,24.38967917
+Clothes Dryers,appliances,0.0004,0.3882,,"Kohli, Lehmann and Pae, 1999",1930,1939,
+Microwave,appliances,0.0002,0.1754,,"Kohli, Lehmann and Pae, 1999",1945,1955,
+detergent: synthetic,consumer,0.0002,0.172,,"Pae Lehmann, 2003",,1927,56.34491644
+recorder (software): LP,consumer,0.0004,0.2685,,"Pae Lehmann, 2003",,1954,35.16231894
+DRAM: 4M,industrial,0.0014,0.8483,,"Pae Lehmann, 2003",,1988,11.00734001
+Cellular Phone,Electronics,0.00092,0.496,,"Kohli, Lehmann and Pae, 1999",1970,1983,
+Mixer,housewares,0.00032,0.1657,,"Kohli, Lehmann and Pae, 1999",1910,1923,
+DRAM: 64K,industrial,0.0027,1.276,,"Pae Lehmann, 2003",,1979,7.120432899
+recorder (hardware): cd player,consumer,0.0007,0.319,,"Pae Lehmann, 2003",,1983,28.36600629
+Beer can: alluminum,industrial,0.0007,0.3043,,"Pae Lehmann, 2003",,1961,29.57884094
+Steel: Open hearth,industrial,0.0002,0.07,,"Pae Lehmann, 2003",,1868,125.4326943
+DRAM: 16K,industrial,0.0027,0.8698,,"Pae Lehmann, 2003",,1976,9.997378474
+Soft drink can: metal,industrial,0.001,0.3046,,"Pae Lehmann, 2003",,1953,28.36023641
+Mammography,medical,0.00256,0.6462,0.5942,Schmittlein Mahajan 1982,,1965,13.07063048
+CD Player,Electronics,0.00171,0.358,,"Kohli, Lehmann and Pae, 1999",1969,1983,
+Vacuum Cleaner,housewares,0.00142,0.2941,,"Kohli, Lehmann and Pae, 1999",1907,1908,
+DRAM: 256K,industrial,0.0039,0.7985,,"Pae Lehmann, 2003",,1982,10.30823211
+DRAM: 4K,industrial,0.0059,1.12,,"Pae Lehmann, 2003",,1974,7.279598888
+DRAM: 1M,industrial,0.0039,0.7384,,"Pae Lehmann, 2003",,1985,11.03797977
+Waste Disposal,appliances,0.00098,0.1804,,"Kohli, Lehmann and Pae, 1999",1929,1935,
+Cassete deck,Electronics,0.0018,0.3216,,"Kohli, Lehmann and Pae, 1999",1961,1964,
+flame retention burner,buildings,0.0039,0.655,1,PNNL,,1975,12.25428089
+VCR,Electronics,0.0022,0.3576,,"Kohli, Lehmann and Pae, 1999",1958,1975,
+"Color TV, retail",consumer durables,0.0054467,0.83687,,"Nevers, 1972",,1959,9.480905942
+Radio,Electronics,0.0016,0.2357,,"Kohli, Lehmann and Pae, 1999",1910,1922,
+Steel: Bessemer,industrial,0.0006,0.0857,,"Pae Lehmann, 2003",,1856,91.69710376
+recorder (hardware): tape deck,consumer,0.0016,0.2256,,"Pae Lehmann, 2003",,1964,34.77392875
+Broiler,housewares,0.00111,0.156,,"Kohli, Lehmann and Pae, 1999",1934,1937,
+"Color TV, manf",consumer durables,0.0066315,0.81876,,"Nevers, 1972",,1959,9.412368007
+TV: color,consumer,0.0012,0.1476,,"Pae Lehmann, 2003",,1954,52.1851136
+Airplane: Turbine,industrial,0.0017,0.1857,,"Pae Lehmann, 2003",,1953,40.80860956
+Floppy drive: 3.5 inch,industrial,0.0038,0.4111,,"Pae Lehmann, 2003",,1983,18.40915249
+CT Body Scanner,medical,0.00988,0.9901,0.5894,Schmittlein Mahajan 1982,,1973,7.562332868
+detergent: natural,consumer,0.0017,0.1505,,"Pae Lehmann, 2003",,1915,48.88038022
+Floppy drive: 5.25 inch,industrial,0.0057,0.4724,,"Pae Lehmann, 2003",,1979,15.42443005
+PC,Electronics,0.00306,0.2532,,"Kohli, Lehmann and Pae, 1999",1962,1975,
+Electric refrigerators,consumer durables,0.0026267,0.21566,,"Bass, 1969",,1920,33.74073244
+T-8 lamps,buildings,0.0041,0.326,0.8,PNNL,,1986,22.21599861
+Hard drive: 5.25 inch,industrial,0.0092,0.7263,,"Pae Lehmann, 2003",,1983,9.961174929
+CT Head Scanner,medical,0.01252,0.9875,0.5886,Schmittlein Mahajan 1982,,1972,7.325399101
+Beer can: metal,industrial,0.0024,0.188,,"Pae Lehmann, 2003",,1936,38.43886853
+Ultrasound,medical,0.00618,0.4342,0.9377,Schmittlein Mahajan 1982,,1965,16.37562338
+Tire cord: Nylon,industrial,0.0024,0.1658,,"Pae Lehmann, 2003",,1947,42.77571161
+Mainframe: G4,industrial,0.0089,0.6094,,"Pae Lehmann, 2003",,1984,11.62238199
+Fluorescent Lamp,housewares,0.00082,0.0546,,"Kohli, Lehmann and Pae, 1999",1934,1938,
+Hard drive: 3.5 inch,industrial,0.0112,0.7262,,"Pae Lehmann, 2003",,1986,9.672436618
+Oil cracking: hydro,industrial,0.0012,0.0774,,"Pae Lehmann, 2003",,1960,90.67801953
+Clothes Washer,appliances,0.0012,0.0769,,"Kohli, Lehmann and Pae, 1999",1906,1910,
+Mainframe: G3,industrial,0.0102,0.6495,,"Pae Lehmann, 2003",,1982,10.78467467
+perosonal computer: 80486,consumer,0.016,0.9996,,"Pae Lehmann, 2003",,1991,6.986918012
+room air conditioners,buildings,0.0072,0.423,0.33,PNNL,,1949,16.35399499
+room air conditioners,consumer durables,0.0072,0.4228,0.3299,Schmittlein Mahajan 1982,,1949,16.36052104
+personal computer: 80386,consumer,0.0192,1.01,,"Pae Lehmann, 2003",,1988,6.730516085
+Electric Range,appliances,0.00798,0.411,,"Kohli, Lehmann and Pae, 1999",1915,1919,
+personal computer: 80286,consumer,0.0126,0.6441,,"Pae Lehmann, 2003",,1983,10.50552578
+Mainframe: G2,industrial,0.0138,0.6411,,"Pae Lehmann, 2003",,1978,10.39145117
+Digital watch,Electronics,0.008,0.3629,,"Kohli, Lehmann and Pae, 1999",1962,1971,
+Freezer,appliances,0.00299,0.1325,,"Kohli, Lehmann and Pae, 1999",1924,1929,
+Tire cord: Steel,industrial,0.0047,0.2038,,"Pae Lehmann, 2003",,1972,32.31655265
+Boat Trailers,consumer durables,0.0088137,0.37585,,"Nevers, 1972",,1947,17.47424127
+Electric bed coverings,consumer durables,0.005876,0.24387,,"Bass, 1969",,1949,26.80821581
+Color TV,consumer durables,0.016,0.6566,0.5901,Schmittlein Mahajan 1982,,1963,9.937930848
+room air conditioners,consumer durables,0.010399,0.41861,,"Bass, 1969",,1946,15.53692856
+Tire cord: Rayon,industrial,0.0052,0.2039,,"Pae Lehmann, 2003",,1938,31.75466749
+electric heat pump,buildings,0.0118,0.459,0.23,PNNL,,1970,14.0868545
+personal computer: 8080/86,consumer,0.015,0.5543,,"Pae Lehmann, 2003",,1979,11.5618867
+Power lawn mowers,consumer durables,0.0091837,0.3379,,"Bass, 1969",,1948,18.95210409
+Dishwashers,consumer durables,0.0035,0.1282,0.7696,Schmittlein Mahajan 1982,,1949,49.91344233
+Variable valve,Vehicles,0.007731326,0.279965001,,"our calcs to fit data from US EPA, 2009",,1990,
+conversion to 70% H2O2 delivery systems,industrial,0.030373,1.05579,,"Nevers, 1972",,1962,6.005325342
+Oil craking: catalytic,industrial,0.0025,0.0864,,"Pae Lehmann, 2003",,1938,73.30865437
+Automatic coffee makers,housewares,0.0045,0.1503,,"Kohli, Lehmann and Pae, 1999",1930,1937,
+"Chain hotels (Howard johnso, holiday inn, ramada inn)",retail service,0.010927,0.33792,,"Nevers, 1972",,1956,18.37333516
+mcdonalds,retail service,0.018008,0.53817,,"Nevers, 1972",,1955,11.46470001
+Clothes Dryers,consumer durables,0.012,0.3512,0.2995,Schmittlein Mahajan 1982,,1949,17.50061507
+Tire cord: Polyester,industrial,0.0063,0.1728,,"Pae Lehmann, 2003",,1962,35.1406103
+Electronic ballasts,buildings,0.0138,0.3729,0.6,PNNL,,1986,16.23815895
+Can Opener,housewares,0.01071,0.289,,"Kohli, Lehmann and Pae, 1999",1955,1957,
+recover players,consumer durables,0.024796,0.6541,,"Bass, 1969",,1952,9.215174415
+hybrid corn,agricultural,0.038795,1.00534,,"Nevers, 1972",,1933,5.975324362
+B&W TV,Electronics,0.0057,0.1477,,"Kohli, Lehmann and Pae, 1999",1927,1939,
+Calculator,Electronics,0.01183,0.2935,,"Kohli, Lehmann and Pae, 1999",1967,1972,
+Airplane: Piston,industrial,0.0072,0.1721,,"Pae Lehmann, 2003",,1936,34.3643591
+Mainframe: G1,industrial,0.023,0.5494,,"Pae Lehmann, 2003",,1970,10.7632694
+continuous bleach ranges,industrial,0.040753,0.94547,,"Nevers, 1972",,1944,6.218638699
+Tire cord: Cotton,industrial,0.0053,0.1124,,"Pae Lehmann, 2003",,1910,51.37840574
+Clothes Dryers,consumer durables,0.017206,0.35688,,"Bass, 1969",,1948,16.10882094
+Oil cracking: thermal,industrial,0.0053,0.1083,,"Pae Lehmann, 2003",,1913,52.9213748
+Automatic coffee makers,consumer durables,0.017135,0.30145,,"Bass, 1969",,1948,18.42532421
+Water softeners,consumer durables,0.017703,0.29695,,"Bass, 1969",,1949,18.51287637
+TV: black-and-white,consumer,0.0069,0.1125,,"Pae Lehmann, 2003",,1939,48.56309611
+Video Game,Electronics,0.01979,0.3066,,"Kohli, Lehmann and Pae, 1999",1972,1975,
+Heating Pad,housewares,0.01016,0.1453,,"Kohli, Lehmann and Pae, 1999",1914,1918,
+rapid bleach proc.,industrial,0.044037,0.59352,,"Nevers, 1972",,1959,8.815966609
+steam irons,consumer durables,0.028632,0.32791,,"Bass, 1969",,1949,15.3434482
+advanced compressors,buildings,0.0247,0.2483,1,PNNL,,1982,19.60387595
+Compact fluorescent ,buildings,0.0075,0.071,0.5,PNNL,,1986,67.48599334
+Home freezers,consumer durables,0.018119,0.1711,,"Bass, 1969",,1946,27.98561516
+Black and white televisions,consumer durables,0.027877,0.25105,,"Bass, 1969",,1946,18.8322877
+recorder (hardware): turntable,consumer,0.0133,0.0991,,"Pae Lehmann, 2003",,1950,45.2397449
+Multivalve,Vehicles,0.023298981,0.136558931,,"our calcs to fit data from US EPA, 2009",,1984,
+Trash Compactor,appliances,0.046,0.2651,,"Kohli, Lehmann and Pae, 1999",1970,1971,
+low-E windows,buildings,0.0577,0.2729,0.37,PNNL,,1983,14.21426167
+condensing gas furnace,buildings,0.07,0.071,0.3,PNNL,,1982,26.03189536
+Electric Knife,housewares,0.0967,0.0703,,"Kohli, Lehmann and Pae, 1999",1963,1963,
